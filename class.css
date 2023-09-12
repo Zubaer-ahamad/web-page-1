@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 /* font-family: 'Poppins', sans-serif; */
 
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/* ..... header section start hare ..... */
 
 .hader{
     width: 100%;
@@ -44,6 +45,7 @@ ul li{
     font-family: 'Poppins', sans-serif;
     font-size: 29px;
     font-weight: 500;
+    color: #FFFFFF;
 }
 
 .search-fild{
@@ -81,4 +83,69 @@ ul li{
 .search-icon{
     font-size: 24px;
     color: #FFFFFF;
+}
+
+/* ..... banner section start hare ..... */
+
+.banner-section{
+    width: 100%;
+    background-color: #FFC400;
+}
+
+.banner-section .container{
+    width: 1200px;
+    padding: 25px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-top: 90px;
+    padding-bottom: 110px;
+}
+
+.banner-text-content h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 66px;
+    font-weight: 600;
+    color: white;
+    line-height: 74px;
+    margin-bottom: 40px;
+    padding-right: 60px;
+}
+
+.banner-text-content{
+    max-width: 700px;
+}
+
+.banner-text-content p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.banner-btn-group a{
+    font-size: 24px;
+    color: #fff;
+    display: inline-block;
+    padding: 24px 34px;
+    border-radius: 8px;
+}
+
+.banner-btn-group a:first-child{
+    background-color: #00BFCB;
+    margin-right: 34px;
+}
+
+.banner-btn-group a:last-child{
+    background-color: #FFC400;
+    border: 3px solid #fff;
+}
+
+.banner-image{
+    max-width: 450px;
+}
+
+.banner-image-img{
+    width: 100%;
 }
