@@ -204,3 +204,101 @@ ul li{
     width: 100%;
     margin-top: 0.480in;
 }
+
+/* ..... dog care section ..... */
+
+.dog-care{
+    width: 100%;
+    background-color: #FFC400;
+}
+
+.dog-care-text{
+    width: 1200px;
+}
+
+.dog-care-text h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.dog-care-text p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    color: #fff;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 95px;
+    text-align: center;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.dog-care .container{
+    width: 1200px;
+    padding: 25px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.container .box1 h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 55px;
+    text-align: center;
+    padding-right: 40px;
+
+}
+
+.container .box1 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+.container .box2 h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 55px;
+    padding-right: 40px;
+
+
+}
+
+.container .box2 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+.container .box3 h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 55px;
+    padding-right: 40px;
+
+
+}
+
+.container .box3 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
