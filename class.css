@@ -386,9 +386,19 @@ ul li{
 
 .offer-section .container{
     width: 1150px;
-    margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.container .image1{
+    float: right;
+}
+
+.container .image2{
+    margin: 0 auto;
+}
+.container .image3{
+    float: left;
 }
 
 .container .text1{
@@ -463,20 +473,17 @@ ul li{
 
 .container .box-a{
     float: left;
-    
 }
 
 .container .box-b{
     margin: 0 auto;
-    
 }
 
 .container .box-c{
     float: right;
-    
 }
 
-.container h2{
+.container .box-a h2{
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
     font-weight: bold;
@@ -484,18 +491,49 @@ ul li{
     margin-top: 40px;
 }
 
-.container h3{
+.container .box-b h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+.container .box-c h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.container .box-a h3{
     font-family: 'Poppins', sans-serif;
     font-size: 25px;
     font-weight: 400;
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.container .box-b h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container .box-c h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 15px;
 }
 
 .many-btn{
     font-size: 40px;
     color: #EAAD00;
     text-align: center;
+    margin-top: 25px;
     margin-bottom: 140px;
 }
