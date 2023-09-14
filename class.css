@@ -355,3 +355,76 @@ ul li{
 .animal-love-btn{
     padding-left: 370px;
 }
+
+/* ..... offer section ..... */
+
+.offer-section{
+    width: 100%;
+    background-color: #FFC400;
+}
+
+.ofeer-text h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    padding-top: 110px;
+    margin-bottom: 50px;
+}
+
+.ofeer-text p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    padding-right: 250px;
+    padding-left: 250px;
+    margin-bottom: 100px;
+}
+
+.offer-section .container{
+    width: 1150px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .text1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+    color: #fff;
+    display: inline;
+    padding-left: 90px;
+    text-decoration-line: line-through;
+}
+
+.container .text2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+    color: #fff;
+    display: inline;
+    padding-left: 35px;
+}
+
+.container a{
+    height: 50px;
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    display: block;
+    color: #fff;
+    background-color: #00BFCB;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+    border-radius: 25px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
