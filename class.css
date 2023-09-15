@@ -636,3 +636,121 @@ ul li{
     font-weight: bold;
     color: #fff;
 }
+
+/* ..... nurse section ..... */
+
+.nurse-section{
+    width: 100%;
+}
+
+.nurse-text h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 125px;
+}
+
+.nurse-text h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    text-align: center;
+    padding-right: 250px;
+    padding-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+
+.nurse-section-container{
+    width: 1150px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.nurse-section-container .pic-1{
+    float: left;
+}
+
+.nurse-section-container .pic-2{
+    margin: 0 auto;
+}
+
+.nurse-section-container .pic-3{
+    float: right;
+}
+
+.pic-1 h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 25px 45px 0px 25px;
+}
+
+.pic-1 h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #00BFCB;
+    padding: 0 25px 25px 25px;
+}
+
+.pic-1 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0px 45px 25px 25px;
+}
+
+.pic-2 h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 25px 45px 0px 25px;
+}
+
+.pic-2 h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #00BFCB;
+    padding: 0 25px 25px 25px;
+}
+
+.pic-2 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0px 45px 25px 25px;
+}
+
+.pic-3 h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 25px 45px 0px 25px;
+}
+
+.pic-3 h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #00BFCB;
+    padding: 0 25px 25px 25px;
+}
+
+.pic-3 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0px 45px 25px 25px;
+}
+
+.btn-0{
+    font-family: 'Poppins', sans-serif;
+    font-size: 31px;
+    font-weight: 500;
+    color: #00BFCB;
+    padding-left: 25px;
+    padding-bottom: 150px;
+}
