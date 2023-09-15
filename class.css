@@ -537,3 +537,102 @@ ul li{
     margin-top: 25px;
     margin-bottom: 140px;
 }
+
+
+/* ..... image banner section ..... */
+
+.image-banner{
+    height: 575px;
+    width: 100%;
+    background-image: url(background.png);
+}
+.image-banner .container{
+    width: 1000px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.container .logo1{
+    font-size: 100px;
+    color: #fff;
+    float: left;
+    margin-top: 150px;
+}
+
+.container .logo2{
+    font-size: 100px;
+    color: #fff;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.container .logo3{
+    font-size: 100px;
+    color: #fff;
+    float: right;
+    margin-top: 150px;
+}
+
+.image-banner .container2{
+    width: 1200px;
+    padding: 25px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.container2 .logo1-text{
+    float: left;
+}
+
+.container2 .logo2-text{
+    margin: 0 auto;
+}
+
+.container2 .logo3-text{
+    float: right;
+}
+
+.container2 .logo1-text h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+}
+
+.container2 .logo2-text h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+}
+
+.container2 .logo3-text h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+}
+
+.container2 .logo1-text h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.container2 .logo2-text h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.container2 .logo3-text h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    color: #fff;
+}
